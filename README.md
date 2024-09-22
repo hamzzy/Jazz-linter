@@ -15,13 +15,6 @@ A fast, modular linter built in Rust with pluggable rules for JavaScript and Typ
 
 A fast and efficient JavaScript linter written in Rust and compiled to WebAssembly.
 
-## Features
-
-- Detects unused variables
-- Enforces the use of `const` where appropriate
-- Checks for consistent indentation
-- Compiles to WebAssembly for use in Node.js or browser environments
-- Provides both programmatic and CLI interfaces
 
 ## Prerequisites
 
